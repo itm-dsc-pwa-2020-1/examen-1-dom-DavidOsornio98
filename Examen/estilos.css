@@ -1,0 +1,319 @@
+#cabeza{
+	background-color:rgba(21, 9, 88, 0.562);
+	margin-top: 5px;
+	padding: 2px;
+	height: 95px;
+	
+}
+.logo{
+	height: 73px;
+	display: inline-block;
+	width: 13%;
+	
+}
+.buscar{
+
+	margin-left: 100px;
+	display: inline-block;
+	width: 37%;
+	
+}
+.lupa {
+	margin-left: 6px;
+	display:inline-block;
+	width: 3%;
+
+
+}
+.menu{
+	margin-left: 100px;
+	display: inline-block;
+	width: 20%;
+	
+}
+.cuentas{
+	display: inline-block;
+	width: 30%;
+	
+}
+.pedidos{
+	display: inline-block;
+	width: 30%;
+	
+}
+.prime{
+	display: inline-block;
+	width: 30%;
+
+}
+
+
+
+.cuerpo{
+	margin-top: 10px;
+	
+}
+#imagen1{
+	display: inline-block;
+	width: 49%;
+	
+}
+#imagen2{
+	display: inline-block;
+	width: 49%;
+	
+	
+}
+#imagen1D{
+	display: inline-block;
+	width: 49%;
+	background-color: black;
+	
+}
+#imagen2D{
+	display: inline-block;
+	width: 49%;
+	background-color: black;
+	
+}
+
+.texto1{
+	display: inline-block;
+	width: 49%;
+	
+}
+.texto2{
+	display: inline-block;
+	width: 49%;
+	
+}
+#art1{
+	margin-left: 15px;
+	display: inline-block;
+	width: 40%;
+	
+}
+#art2{
+	margin-left: 50px;
+	display: inline-block;
+	width: 40%;
+	
+}
+#art3{
+	margin-left: 15px;
+	display: inline-block;
+	width: 40%;
+
+}
+#art4{
+	margin-left: 50px;
+	display: inline-block;
+	width: 40%;
+	
+}
+
+#art1D{
+	margin-left: 15px;
+	display: inline-block;
+	width: 40%;
+	background-color: black;
+	
+}
+#art2D{
+	margin-left: 50px;
+	display: inline-block;
+	width: 40%;
+	background-color: black;
+	
+}
+#art3D{
+	margin-left: 15px;
+	display: inline-block;
+	width: 40%;
+	background-color: black;
+
+}
+#art4D{
+	margin-left: 50px;
+	display: inline-block;
+	width: 40%;
+	background-color: black;
+	
+}
+
+
+
+
+#pie{
+	background-color: gray;
+	margin-top: 10px;
+	width: 100%;
+	
+	
+}
+#pieD{
+	background-color: black;
+	margin-top: 10px;
+	width: 100%;
+	
+	
+}
+.redes{
+	margin-left: auto;
+  	margin-right: auto;
+	width: 17%;
+	
+}
+
+.derechos{
+	text-align: right;
+	width: 40%;
+	margin-left: auto;
+  	margin-right: 4px;
+	
+}
+
+
+
+#cabezaD{
+	background-color:rgba(0, 0, 0);
+	margin-top: 5px;
+	padding: 2px;
+	height: 95px;
+	
+}
+
+
+
+#parrafoD{
+	background-color: white;
+}
+
+#cuerpo{
+	background-color: white;
+}
+#cuerpoD{
+	background-color:black;
+}
+
+#op0{
+	color: rgb(0,0,0);
+}
+#op0Dark{
+	color: rgb(255,255,255);
+}
+#op1{
+	color: rgb(0,0,0);
+}
+#op1Dark{
+	color: rgb(255,255,255);
+}
+#op2{
+	color: rgb(0,0,0);
+}
+#op2Dark{
+	color: rgb(255,255,255);
+}
+#op3{
+	color: rgb(0,0,0);
+}
+#op3Dark{
+	color: rgb(255,255,255);
+}
+#op4{
+	color: rgb(0,0,0);
+}
+#op4Dark{
+	color: rgb(255,255,255);
+}
+#op5{
+	color: rgb(0,0,0);
+}
+#op5Dark{
+	color: rgb(255,255,255);
+}
+#op6{
+	color: rgb(0,0,0);
+}
+#op6Dark{
+	color: rgb(255,255,255);
+}
+#op7{
+	color: rgb(0,0,0);
+}
+#op7Dark{
+	color: rgb(255,255,255);
+}
+#op8{
+	color: rgb(0,0,0);
+}
+#op8Dark{
+	color: rgb(255,255,255);
+}
+#op9{
+	color: rgb(0,0,0);
+}
+#op9Dark{
+	color: rgb(255,255,255);
+}
+#op10{
+	color: rgb(0,0,0);
+}
+#o10Dark{
+	color: rgb(255,255,255);
+}
+#op11{
+	color: rgb(0,0,0);
+}
+#op11Dark{
+	color: rgb(255,255,255);
+}
+
+#op12{
+	color: rgb(0,0,0);
+}
+#op12Dark{
+	color: rgb(255,255,255);
+}
+#op13{
+	color: rgb(0,0,0);
+}
+#op13Dark{
+	color: rgb(255,255,255);
+}
+#op14{
+	color: rgb(0,0,0);
+}
+#op14Dark{
+	color: rgb(255,255,255);
+}
+#op15{
+	color: rgb(0,0,0);
+}
+#op15Dark{
+	color: rgb(255,255,255);
+}
+#op16{
+	color: rgb(0,0,0);
+}
+#op16Dark{
+	color: rgb(255,255,255);
+}
+#op17{
+	color: rgb(0,0,0);
+}
+#op17Dark{
+	color: rgb(255,255,255);
+}
+#op18{
+	color: rgb(0,0,0);
+}
+#op18Dark{
+	color: rgb(255,255,255);
+}
+#op19{
+	color: rgb(0,0,0);
+}
+#op19Dark{
+	color: rgb(255,255,255);
+}
